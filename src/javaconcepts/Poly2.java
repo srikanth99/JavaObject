@@ -21,7 +21,7 @@ public class Poly2 extends Poly1 {
         Poly1 p1 = new Poly1();
         Poly2 p2 = new Poly2();
 
-          p3 = new Poly2(); //upcasting
+//          p3 = new Poly2(); //upcasting
 //        Poly2 p4 = new Poly1(); //not possible
 
 //        Poly2 p4 = new Poly1();
@@ -30,7 +30,7 @@ public class Poly2 extends Poly1 {
 //        p1.add(34,456,78);
 //        p1.add(34.5,56);
         p2.add(12,345);
-        p3.add(12,345);
+//        p3.add(12,345);
 //        p2.add(34,456,78);
 //        p2.add(34.5,56);
 
